@@ -100,7 +100,7 @@ students = {
         'faculty': 'Politehnika',
         'avg_grade': 9.2
     },
-
+    
 }
 
 # Uzimanje elementa nested dict-a
