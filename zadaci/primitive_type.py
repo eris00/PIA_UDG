@@ -141,24 +141,23 @@ for x in str:
 
 ''' Napisati program koji iz teksta izvlači cifre i računa njihov proizvod. '''
 
-# res = []
-# text = 'Danas1 je dobar dan. Datum 24.3.2023.godine.'
-# for x in text:
-#     if x.isnumeric():
-#         res.append(x)
-#
-# lista_int = []
-# for x in res:
-#     x_num = int(x)
-#     lista_int.append(x_num)
-#
-# print(lista_int)
-#
-# sum = 0
-# for x in lista_int:
-#     sum += x
-#
-# print(sum)
+res = []
+text = 'Danas1 je dobar dan. Datum 24.3.2023.godine.'
+for x in text:
+ if x.isnumeric():
+     res.append(x)
+
+lista_int = []
+for x in res:
+ x_num = int(x)
+ lista_int.append(x_num)
+
+print(lista_int)
+sum = 0
+for x in lista_int:
+ sum += x
+
+print(sum)
 
 
 
