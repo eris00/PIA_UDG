@@ -2,6 +2,7 @@ import os
 
 # Otvaranje fajla
 # file1 = open("txtfiles/text.txt", "r")
+
 ''' Citanje fajla funkcijom read '''
 # content = file1.read()
 # print(content)
