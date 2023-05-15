@@ -1,18 +1,21 @@
 # Prolaz kroz matricu
-'''
-# matrix = [[1,2,3],
-#           [4,5,6],
-#           [7,8,9]]
-#
-# # Prolazimo kroz matricu red po red
-# for i in range(len(matrix)):
-#     # Prolazimo kroz svaki element u redu
-#     for j in range(len(matrix[i])):
-#         # Ispisujemo svaki element u redu
-#         print(matrix[i][j], end=' ')
-#     # prelaz u novi red
-#     print()
-'''
+
+matrix = [[1,2,3],
+           [4,5,6],
+           [7,8,9]]
+
+ #Prolazimo kroz matricu red po red
+for i in range(len(matrix)):
+ # Prolazimo kroz svaki element u redu
+ for j in range(len(matrix[i])):
+     #Ispisujemo svaki element u redu
+     for k in range(len(matrix)):
+        print(matrix[j][k])
+
+
+ # prelaz u novi red
+ print()
+
 
 # Sabiranje dvije matrice
 '''
