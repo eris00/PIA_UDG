@@ -50,5 +50,5 @@ class Company:
     def __str__(self):
         return f'Name: {self.get_name()}, Area: {self.get_area()}, employees: {self.get_employees()}, balance: {self.get_balance()}'
 
-    def can_pay_employees(self):
+    # def can_pay_employees(self):
 
