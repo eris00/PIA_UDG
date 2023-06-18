@@ -1,6 +1,7 @@
 '''
 U fajlu link nalaze se dimenzije pravougaonika (svaki red u fajlu je kombinacija stranica pravougaonika a i b, vrijednosti su razdvojene zarezom).
-Pretpostaviti da se uvijek radi o prirodnim brojevima. Vaš zadatak je da iz fajla izdvojite sve pravougaonike koji su kvadrati (a = b), i da štampate površinu najvećeg kvadrata.
+Pretpostaviti da se uvijek radi o prirodnim brojevima. Vaš zadatak je da iz fajla izdvojite sve pravougaonike koji su kvadrati (a = b), i da
+štampate površinu najvećeg kvadrata.
 Za ovaj primjer output bi trebao da bude 16 (kvadrat sa najdužim stranicama je poslednji, čija je dužina stranica 4).
 '''
 

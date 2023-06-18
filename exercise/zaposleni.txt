@@ -1,0 +1,10 @@
+ime,prezime,pozicija,plata
+Nikola,Ivanovic,Junior,500
+Marko,Mugosa,Medior,900
+Ivana,Bogojevic,Junior,600
+Goran,Jovovic,Junior,550
+Jovana,Popovic,Senior,1500
+Luka,Filipovic,Senior,1400
+Slavica,Perovic,Medior,1000
+Ilija,Scekic,Junior,750
+Marko,Roganovic,Medior,1200

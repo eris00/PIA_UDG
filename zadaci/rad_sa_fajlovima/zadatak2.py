@@ -1,5 +1,6 @@
 '''
-Napisati program koji za unijeti naziv grada iz fajla cities.txt štampa naziv naselja sa najvećim brojem stanovnika. Fajl u svakom redu sadrži string oblika grad, naziv_naselja, broj_stanovnika.
+Napisati program koji za unijeti naziv grada iz fajla cities.txt štampa naziv naselja sa najvećim brojem stanovnika.
+Fajl u svakom redu sadrži string oblika grad, naziv_naselja, broj_stanovnika.
 Input: Podgorica  Output: Zabjelo
 '''
 

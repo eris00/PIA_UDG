@@ -61,6 +61,8 @@ import os
 ''' brisanje fajla '''
 # os.remove('txtfiles/remov.txt')
 
+with open("txtfiles/file5.txt", "r") as f:
+    print(f.readlines())
 
 
 
